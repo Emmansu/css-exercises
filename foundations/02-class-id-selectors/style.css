@@ -1,0 +1,19 @@
+.odd, .odder {
+    background-color: pink;
+    font-family: "Verdana", "DejaVu Sans", "sans-serif";
+}
+
+.odder {
+    font-size: 24px;
+}
+
+#blue{
+    color: blue;
+    font-size: 36px;
+}
+
+#bold{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
